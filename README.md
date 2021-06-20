@@ -3,7 +3,7 @@
 * Prototype for Maynooth Furniture website 🌐
 * Build using Adobe XD 🔧
 * Download the .xd file and use it for your site 📥
-* To access the .xd file open "file.txt" or <a href=" ">click here</a> 🔗
+* To access the .xd file open "file.txt" or <a href="https://drive.google.com/drive/folders/1BwP2U81d621oG-lW_aEJTnlfLY7bXeMV?usp=sharing">click here</a> 🔗
 
 ## Screenshot:
 
