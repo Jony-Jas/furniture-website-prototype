@@ -1,11 +1,9 @@
 # Furniture website protoype
 
-* Protoype for Maynooth Furniture website
-
-* Build using Adobe XD
-* Download the .xd file and use it for your site.
-
-* To access the .xd file open "file.txt" or <a href=" ">click here</a>
+* Protoype for Maynooth Furniture website 🌐
+* Build using Adobe XD 🔧
+* Download the .xd file and use it for your site 📥
+* To access the .xd file open "file.txt" or <a href=" ">click here</a> 🔗
 
 ## Screenshot:
 
